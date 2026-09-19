@@ -1,3 +1,0 @@
-Tema do Projeto Final:
-Detecção de Impactos em Jogadores de Futebol Americano em Tempo Real utilizando Deep Learning e Análise de Vídeo
-Dataset: https://www.kaggle.com/c/nfl-impact-detection/data?utm_source=chatgpt.com
