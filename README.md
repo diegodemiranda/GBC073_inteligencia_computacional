@@ -20,6 +20,9 @@ Detecção Automática de Impactos entre Jogadores de Futebol Americano utilizan
 
 O dataset do Kaggle possui vídeos de jogadas, sendo disponibilizadas duas perspectivas para cada jogada. As anotações incluem a posição dos capacetes, indicador de impacto, tipo de impacto, confiança e visibilidade. Também existem dados de tracking dos jogadores contendo posição, velocidade, aceleração, orientação e direção.
 
+#### Objetivo:
+Avaliar se a utilização de informações temporais de vídeo influencia o desempenho de modelos de Deep Learning na detecção automática de impactos em jogadores de futebol americano em comparação com modelos baseados exclusivamente em frames individuais.
+
 [NFL 1st and Future - Impact Detection](https://www.kaggle.com/c/nfl-impact-detection/data?utm_source=chatgpt.com)
 
 Os tipos de impacto incluem, por exemplo:
