@@ -14,7 +14,7 @@ Cada pasta neste repositório corresponde a um projeto ou desafio específico, c
 
 ## Projeto Final
 
-Detecção Automática de Impactos entre Jogadores de Futebol Americano utilizando Redes Neurais Profundas e Análise Temporal de Vídeo.
+Detecção Automática de Impactos em Futebol Americano por Análise Espaço-Temporal de Vídeos utilizando Deep Learning
 
 #### dataset:
 
