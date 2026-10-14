@@ -1,0 +1,2 @@
+run_id,opt,lr,lr_adamw,sched,seed,steps,bs,wd,clip,k,val_loss_best,step_best,val_loss_final,val_acc_best,val_f1_best,divergiu,tempo_s,device,torch
+muon_lr0.01_warmcos_s0_la0.0003,muon,0.01,0.0003,warmcos,0,2000,128,0.01,5.0,25,1.0150291919708252,150,1.2934733629226685,0.49606299212598426,0.28710709022590253,False,15.8,cpu,2.14.1+cpu
